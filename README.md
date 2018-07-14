@@ -24,15 +24,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### **Features**
 <p>Main features on las stable release</p>
 
-<div style="display:table; width:900px">
+<div style="display:inherit;width:50em;">
  
-<span style="width:100px;display:table-cell; float:right; position:fixed">Left tb222</span>
-
-<span style="width:100px; display:table-cell; float:none">Left tb</span>
+<span style="width:100px;display:table;float:left;position:absolute;text-align:right;">Left tb<span>
+<span style="width:500px;display:table;float:left;position:absolute;text-align:left;">Left tb222</span>
 
 
 </div>
-</div>
+
 
 <p align="right" style="display:table; float:right; position:absolute; width:100px; border:1px solid #ddd; text-align:right;">Right</p>
 
