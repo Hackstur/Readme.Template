@@ -24,11 +24,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### **Features**
 <p>Main features on las stable release</p>
 
+<div width="100%" display="block">
 
-<p style="display:block;width:100%;table-layout:fixed;">
-  <span style="display:inline-block;float:left;width:450%;">1</span>
-  <span style="display:inline-block;float:rigth;width:45%;">2</span>
-</p>
+<div style="display:inline-block;float:rigth;">1</div>
+<div style="display:inline-block;float:left;">2</div>
+
+
+</div>
 
 <br/>
 <!-- TABLE OF CONTENTS -->
