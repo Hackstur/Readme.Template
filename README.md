@@ -1,12 +1,10 @@
 <!-- PROJECT DESCRIPTION -->
 <h1 align="center">( ｡◕‿‿◕｡ )<br/>README TEMPLATE</h1>
-<p align="center">Your project description<br/>
-
-<!-- BADGET BUTTONS -->   
-![](https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat)
-![](https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat)
-
-</p>
+<p align="center">Your project description<br/><br/>
+<!-- BADGET BUTTONS --> 
+<img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
+<img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
+</div>
 
 
 <!-- INTRODUCTION -->
@@ -24,10 +22,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
 ### **Features**
-<p>Main features on release v0.0.0</p>
+<p>Main features on las stable release</p>
+<div style="width:10%;">
+<p style="display:block; float:left; background-color:#452; width:40%; text-align:right; position:relative;"> lola </p>
+<p style="display:block; float:right; background-color:#452; width:40%; text-align:right; position:relative;"> lola2 </p>
+</div>
 
-<p style="float:right; width:40%">lll</p>
-
+<br/>
 <!-- TABLE OF CONTENTS -->
 
 > <details>
@@ -43,6 +44,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 > * [Team](#️-team)
 > * [License](#-license)
 > </details>
+
 
 
 <!-- INSTALLATION  -->
