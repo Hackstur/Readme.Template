@@ -23,17 +23,22 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### **Features**
 <p>Main features on las stable release</p>
-<p align="right" style="display:block; float:right; position:absolute; width:300px; text-align:right;">lll</p>
-<div width="100%">
-<span style="display:table; float:left; position:absolute; left:0px; width:300px;">
-  Lista1<br/>
-</span>
-<span style="display:table;f loat:right; position:relative; right:0px; width:300px;">
-  Lista2<br/>
- 
-</span>
+
+<div display="table" width="100%">
+<div display="table-row">
   
+<div style="display:table-cell; text-align:left;">Left tb</div>
+<div style="display:table-cell; text-align:right;">Left tb222</div>
+
 </div>
+</div>
+
+<p align="right" style="display:table; float:right; position:absolute; width:100px; border:1px solid #ddd; text-align:right;">Right</p>
+
+<p style="display:table; float:left; position:absolute; width:100px; border:1px solid #ddd; text-align:left;">Left2</p>
+
+
+  
 
 
 <br/>
