@@ -27,8 +27,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <div display="table" width="100%">
 <div display="table-row">
   
-<div style="display:table-cell; text-align:left;">Left tb</div>
-<div style="display:table-cell; text-align:right;">Left tb222</div>
+<span style="display:table-cell; text-align:left;">Left tb</span>
+<span style="display:table-cell; text-align:right;">Left tb222</span>
 
 </div>
 </div>
