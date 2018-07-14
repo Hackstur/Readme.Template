@@ -4,8 +4,8 @@
 <!-- BADGET BUTTONS --> 
 <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
 <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
+ 
 </div>
-
 
 <!-- INTRODUCTION -->
 ## 🛈 **Introduction**
@@ -33,19 +33,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <br/>
 <!-- TABLE OF CONTENTS -->
 
-> <details>
->  <summary><b>Table of Contents 🕮</b><br/><sup>&ensp;&ensp;&ensp; (click to expand)</sup></summary>
-> 	
-> * [Introduction](#-introduction)
->   - [Features](#-features)
->   - [Table of Contents](#-table-of-contents)
-> * [Installation](#-installation)
-> * [User Guide](#-user-guide)
-> * [Contribute](#-contribute)
->   - [Bug/Feature Request](#-bug/feature-request)
-> * [Team](#️-team)
-> * [License](#-license)
-> </details>
+<details>
+ <summary><h3>Table of Contents 🕮</h3><br/><sup>&ensp;&emsp;&ensp; (click to expand)</sup></summary>
+
+- [Introduction](#-introduction)
+    - [Features](#-features)
+    - [Table of Contents](#-table-of-contents)
+- [Installation](#-installation)
+    - [Requirements](#-requirements)
+    - [Install 
+- [User Guide](#-user-guide)
+- [Contribute](#-contribute)
+    - [Bug/Feature Request](#-bug/feature-request)
+- [Team](#️-team)
+- [License](#-license)
+</details>
 
 
 
