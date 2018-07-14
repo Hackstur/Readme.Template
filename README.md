@@ -24,12 +24,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### **Features**
 <p>Main features on las stable release</p>
 
-<div width="100%" display="block">
-
-<div style="display:inline-block;float:left;width:200px">1</div>
-<div style="display:inline-block;float:left;width:200px">2</div>
-
-
+<div width="100%" style="display:block;">
+<div width="150px" style="display:inline-block;float:left;">1</div>
+<div width="150px" style="display:inline-block;float:left;">2</div>
 </div>
 
 <br/>
