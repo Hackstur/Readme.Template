@@ -15,7 +15,7 @@ Ut enim ad minim veniam, <em>quis nostrud exercitation ullamco laboris nisi ut a
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <p align="center">
-<img src="http://via.placeholder.com/500x300" width="70%" />
+<img src="http://via.placeholder.com/500x300"/>
 </p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -23,10 +23,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### **Features**
 <p>Main features on las stable release</p>
-<div style="width:10%;">
-<p style="display:block; float:left; background-color:#452; width:40%; text-align:right; position:relative;"> lola </p>
-<p style="display:block; float:right; background-color:#452; width:40%; text-align:right; position:relative;"> lola2 </p>
+<p align="right" style="display:block; float:right; position:absolute; width:300px; text-align:right;">lll</p>
+<div width="100%">
+<span style="display:table; float:left; position:absolute; left:0px; width:300px;">
+  Lista1<br/>
+</span>
+<span style="display:table;f loat:right; position:relative; right:0px; width:300px;">
+  Lista2<br/>
+ 
+</span>
+  
 </div>
+
 
 <br/>
 <!-- TABLE OF CONTENTS -->
