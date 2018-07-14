@@ -26,8 +26,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <div width="100%" display="block">
 
-<div style="display:inline-block;float:rigth;">1</div>
-<div style="display:inline-block;float:left;">2</div>
+<div style="display:inline-block;float:left;width:200px">1</div>
+<div style="display:inline-block;float:left;width:200px">2</div>
 
 
 </div>
