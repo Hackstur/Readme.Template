@@ -24,23 +24,23 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### **Features**
 <p>Main features on las stable release</p>
 
-> <table width="100%" style="display:>
-  <thead>
-  <tr>
-  <th width="50%">
-  <div style="border:1px solid black;">
-  
-   - [x] Feature 1
-   - [ ] Feature 2
-   - [ ] 
-  
-  </div>
-  </th>
-  <th>ID</th>
-  </tr>
-  </thead>
-  <tbody>
-  </tbody>
+<table width="100%" style="display:>
+<thead>
+<tr>
+<th width="50%">
+<div style="border:1px solid black;">
+
+- [x] Feature 1
+- [ ] Feature 2
+- [ ] 
+
+</div>
+</th>
+<th>ID</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
 </table>
 <ul style="display:table;list-style:none;padding:0;">
 <li style="display:inline-block;">lol</li> 
@@ -64,8 +64,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     - [Bug/Feature Request](#-bug/feature-request)
 - [Team](#️-team)
 - [License](#-license)
-
 </details>
+
 
 <!-- INSTALLATION  -->
 ## 💾 **Installation**
@@ -88,7 +88,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### **Licensed under the Apache License, Version 2.0 (the "License")** 
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
-<p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></p>
+<p align="center"><sub><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub></p>
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS".**
 
