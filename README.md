@@ -1,4 +1,4 @@
-<!-- PROJECT DESCRIPTION -->
+<!-- HEADER -->
 <header>
  <h1 align="center"><strong>ლ(｡◕‿‿◕｡)づ</strong><br/>README TEMPLATE</h1>
  <p align="center">README.MD TEMPLATE PROJECT<br/><br/>
@@ -32,11 +32,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </dt><dd>
  
 Some features archieved by the app or developed in the last stable release.
-
-Some instructions and code to follow...
-
-<details>
- <summary>Summary</summary>  
 
 ```cs
 var x = 1;
@@ -88,9 +83,9 @@ var x = 1;
 - [Team](#️-team)
 - [License](#-license)
 ---
-
+ᄽ(⋋[[ ͛⋌)ᄿ
+[    kjhoi
 </p></details>
-
 
 <!-- INSTALLATION  -->
 # 💾 **Installation**
