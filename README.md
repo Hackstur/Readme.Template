@@ -16,10 +16,25 @@ Ut enim ad minim veniam, *quis nostrud exercitation ullamco laboris nisi ut aliq
  Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<p align="center"><img src="http://via.placeholder.com/500x300"></img></p>
+<br/><p align="center"><img src="http://via.placeholder.com/500x300"></img></p><br/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<form>
+<fieldset>
+<legend>Choose your favorite monster</legend>
+
+<input type="radio" id="kraken" name="monster">
+<label for="kraken">Kraken</label><br/>
+
+<input type="radio" id="sasquatch" name="monster">
+<label for="sasquatch">Sasquatch</label><br/>
+
+<input type="radio" id="mothman" name="monster">
+<label for="mothman">Mothman</label>
+</fieldset>
+</form>
 
 ### **Features**
 <p>Main features on las stable release</p>
@@ -35,19 +50,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   <tbody>
   </tbody>
 </table>
-<font size=2 face="MS Sans Serif" color="navy">Como ves se pueden poner varios atributos separados por un espacio</font>
-
-
-<p style="display:list-item;margin-left:2em;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-<p style="display:list-item;margin-left:2em;">Sed non sem quis tellus vulputate lobortis.</p>
-<p style="display:list-item;margin-left:2em;">Vivamus fermentum, tortor id ornare ultrices, ligula ipsum tincidunt pede, et blandit sem pede suscipit pede.</p>
-
-
-    <div style="display:inline-block;">
-    <span width="150px" style="display:inline-block;">2</span>
-    <span width="150px" style="display:inline-block;float:right;">1</span>
-    </div>
-
     
     
 <!-- TABLE OF CONTENTS -->
