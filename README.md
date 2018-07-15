@@ -21,36 +21,32 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-
-<fieldset>
-<legend>Choose your favorite monster</legend>
-
-<input type="radio" id="kraken" name="monster">
-<label for="kraken">Kraken</label><br/>
-
-<input type="radio" id="sasquatch" name="monster">
-<label for="sasquatch">Sasquatch</label><br/>
-
-<input type="radio" id="mothman" name="monster">
-<label for="mothman">Mothman</label>
-</fieldset>
-
-
 ### **Features**
 <p>Main features on las stable release</p>
 
-<table color="ffffff">
+> <table width="100%" style="display:>
   <thead>
-    <tr>
-      <th>Name</th>
-      <th>ID</th>
-      <th>Favorite Color</th>
-    </tr>
+  <tr>
+  <th width="50%">
+  <div style="border:1px solid black;">
+  
+   - [x] Feature 1
+   - [ ] Feature 2
+   - [ ] 
+  
+  </div>
+  </th>
+  <th>ID</th>
+  </tr>
   </thead>
   <tbody>
   </tbody>
 </table>
-    
+<ul style="display:table;list-style:none;padding:0;">
+<li style="display:inline-block;">lol</li> 
+<li " style="display:inline-block;">ailo</li> 
+</ul>
+
     
 <!-- TABLE OF CONTENTS -->
 <br/>
@@ -70,21 +66,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 - [License](#-license)
 
 </details>
-
-
-<section style="display: table;">
-  <header style="display: table-row;">
-    <div style="display: table-cell;"></div>
-    <div style="display: table-cell;"></div>
-    <div style="display: table-cell;"></div>
-  </header>
-  <div style="display: table-row;">
-    <div style="display: table-cell;"></div>
-    <div style="display: table-cell;"></div>
-    <div style="display: table-cell;"></div>
-  </div>
-</section>
-
 
 <!-- INSTALLATION  -->
 ## 💾 **Installation**
