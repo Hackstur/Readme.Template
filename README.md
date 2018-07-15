@@ -21,8 +21,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-###  :medal_sports: Features   
 
+### :medal_sports: Features
 
 <!-- FEATURES ARCHIEVED -->
 Some features **archieved** by the app or developed in the last stable release. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -47,7 +47,7 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 ### :page_with_curl: Table of Contents
 
-<details><summary>Table of Contents 🕮<br/><sup>(click to expand)</sup></summary><p>
+<details><summary><sup>(click to expand)</sup></summary><p>
 
 ####  Indice
 
@@ -75,9 +75,11 @@ Some features **archieved** by the app or developed in the last stable release. 
 ### :construction: Requirements
 
 <!-- USERGUIDE -->
+
 ## :construction_worker:  User Guide
 
 <!-- CONTRIBUTE -->
+
 ## :love_letter: Contribute
 
 ### :bug: Bug/Feature Request
@@ -85,10 +87,12 @@ Some features **archieved** by the app or developed in the last stable release. 
 ### :innocent: Code of Conduct
 
 <!-- TEAM -->
+
 ## :basketball: Team
 
 <!-- LICENSE -->
-# :mortar_board: License
+
+## :mortar_board: License
 **Licensed under the Apache License, Version 2.0 (the "License")**
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
