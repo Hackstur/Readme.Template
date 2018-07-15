@@ -10,7 +10,7 @@
 
 
 <!-- INTRODUCTION -->
-## 🛈 **Introduction**
+# 🛈 **Introduction**
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, *quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
  Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -21,104 +21,91 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### **Features**
+## **Features**
 Some features archieved by the app or developed in the last stable release.
 
+Some instructions and code to follow...
+
+<details>
+ <summary>Summary</summary>  
+
+```cs
+var x = 1;
+```
+</details>
+
+<br/>
+
+```
+<pre>
 <table align="center">
-<tr>
-<td align="center">
-<!-- First features columns -->
- 
+<tr width="100%">
+<td width="50%" align="center">
+</pre>
+
  - [ ] Feature 1
  - [ ] Feature 2
  - [ ] Feature 3
- 
+
+<pre>
 </td>
-<td align="center">
-<!-- Second features columns -->
- 
+<td width="50%" align="center">
+</pre>
+
  - [ ] Feature 1
  - [ ] Feature 2
  - [ ] Feature 3
- 
+<pre> 
 </td>
 </tr>
 </table>
+</pre>
+
+```
 
 <!-- TABLE OF CONTENTS -->
-<br/>
-<details>
-<summary>Table of Contents 🕮<br/><sup>&ensp;&emsp;&ensp; (click to expand)</sup></summary>  
- 
-- [Introduction](#-introduction)
-    - [Features](#-features)
-    - [Table of Contents](#-table-of-contents)
+
+<details><summary>Table of Contents 🕮<br/><sup>(click to expand)</sup></summary><p>
+
+# **Table of Contents 🕮**  [a](link)
+
+ - [Introduction](#-introduction)
+  - [Features](#-features)
+  - [Table of Contents](#-table-of-contents)
 - [Installation](#-installation)
-    - [Requirements](#-requirements)
-    - [Install 
+  - [Requirements](#-requirements)
+  - [Install 
 - [User Guide](#-user-guide)
 - [Contribute](#-contribute)
-    - [Bug/Feature Request](#-bug/feature-request)
+  - [Bug/Feature Request](#-bug/feature-request)
 - [Team](#️-team)
 - [License](#-license)
-</details>
+---
+
+</p></details>
 
 
 <!-- INSTALLATION  -->
-## 💾 **Installation**
+# 💾 **Installation**
 
-### 🛒 **Requirements**
+## 🛒 **Requirements**
 
 <!-- USERGUIDE -->
-## 👷 **User Guide**
+# 👷 **User Guide**
 
 <!-- CONTRIBUTE -->
-## 💎 **Contribute**
+# 💎 **Contribute**
 
-### 🐞 **Bug/Feature Request**
+## 🐞 **Bug/Feature Request**
 
-### ⛪ **Code of Conduct**
-
-
-#### Setting
-
-{
-   sequenceDiagram : true
-}
-
-#### Syntax
-
-```seq
-.........
-```
-
-# or
-
-```sequence
-.........
-```
-
-#### Example
-
-```seq
-A->B: Message
-B->C: Message
-C->A: Message
-```
-
-```sequence
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
+## ⛪ **Code of Conduct**
 
 <!-- TEAM -->
-## ❤️ **Team**
+# ❤️ **Team**
 
 <!-- LICENSE -->
-## 🎓 **License**
-### **Licensed under the Apache License, Version 2.0 (the "License")** 
+# 🎓 **License**
+## **Licensed under the Apache License, Version 2.0 (the "License")** 
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
 <p align="center"><sub><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub></p>
