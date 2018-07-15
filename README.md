@@ -39,7 +39,7 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 - [x] Feature Completed
 - [ ] Feature Requested
-- [ ] Feature in progress :pushpin:
+- [ ] Feature in progress
 - [ ] SubTask
 
 </td>
@@ -47,12 +47,18 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 - [x] Bug Completed
 - [ ] Bug Requested
-- [ ] Bug in progress :pushpin:
-- [ ] Bug
+- [ ] Bug in progress
+- [ ] SubTask
 
 </td>
 </tr>
 </table>
+
+<pre>
+
+a Version
+
+</pre>
 
 
 
