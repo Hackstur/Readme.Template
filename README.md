@@ -84,7 +84,8 @@ var x = 1;
 - [License](#-license)
 ---
 
-ᄽ(ꈍ̎̎̎◡͛ꈍ)ᄿ̀
+
+ᄽ(◕̲̎◡͛◕̲)ᄿ
 
 </p></details>
 
