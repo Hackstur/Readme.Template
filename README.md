@@ -39,20 +39,22 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 - [x] Feature Completed
 - [ ] Feature Requested
-      -[ ] 🖈 Feature in progress
-      - [ ] SubTask
+ -[ ] Feature in progress :pushpin:
+- [ ] SubTask
 
 </td>
 <td width="400px" align="left">
 
 - [x] Bug Completed
 - [ ] Bug Requested
-      -[ ] 🖈 Bug in progress
-      - [ ] Bug
+ -[ ] Bug in progress :pushpin:
+- [ ] Bug
 
 </td>
 </tr>
 </table>
+
+
 
 
 <!-- TABLE OF CONTENTS -->
