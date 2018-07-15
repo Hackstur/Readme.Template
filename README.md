@@ -47,7 +47,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <li " style="display:inline-block;">ailo</li> 
 </ul>
 
-    
+[TOCM]
+
+[TOC]
 <!-- TABLE OF CONTENTS -->
 <br/>
 <details>
@@ -79,6 +81,34 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### 🐞 **Bug/Feature Request**
 
 ### ⛪ **Code of Conduct**
+
+
+### Flowchart
+
+```flow
+st=>start: 用户登陆
+op=>operation: 登陆操作
+cond=>condition: 登陆成功 Yes or No?
+e=>end: 进入后台
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+[========]
+
+### Sequence Diagram
+
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
+```
+
+### End
+
 
 <!-- TEAM -->
 ## ❤️ **Team**
