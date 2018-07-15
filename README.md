@@ -23,6 +23,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ###  :medal_sports: Features   
 
+
 <!-- FEATURES ARCHIEVED -->
 Some features **archieved** by the app or developed in the last stable release. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -32,33 +33,23 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 <!-- FEATURES TABLES -->
 <table align="center">
-<tr width="900px" style="display:table-style;">
-<td width="50%" align="left">
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-
+<tr width="800px" style="display:table-style;">
+<td width="400px" align="left" style="display:cell-style;">
 
 </td>
-<td width="50%" align="left">
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-
+<td width="400px" align="left">
 </td>
 </tr>
 </table>
 
 
 <!-- TABLE OF CONTENTS -->
-</dd>
-</dl>
+
+### :page_with_curl: Table of Contents
 
 <details><summary>Table of Contents 🕮<br/><sup>(click to expand)</sup></summary><p>
 
-### **Table of Contents 🕮**  [a](link)
+####  Indice
 
 - [Introduction](#-introduction)
   - [Features](#-features)
@@ -75,27 +66,30 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 </p></details>
 
-<!-- INSTALLATION  -->
-## 💾 **Installation**
+<!-- END TABLE OF CONTENTS -->
 
-### 🛒 **Requirements**
+<!-- INSTALLATION  SECTION -->
+
+## :factory: Installation
+
+### :construction: Requirements
 
 <!-- USERGUIDE -->
-## 👷 **User Guide**
+## :construction_worker:  User Guide
 
 <!-- CONTRIBUTE -->
-## 💎 **Contribute**
+## :love_letter: Contribute
 
-### 🐞 **Bug/Feature Request**
+### :bug: Bug/Feature Request
 
-### ⛪ **Code of Conduct**
+### :innocent: Code of Conduct
 
 <!-- TEAM -->
-## ❤️ **Team**
+## :basketball: Team
 
 <!-- LICENSE -->
-# 🎓 **License**
-## **Licensed under the Apache License, Version 2.0 (the "License")**
+# :mortar_board: License
+**Licensed under the Apache License, Version 2.0 (the "License")**
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
 <p align="center"><sub><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub></p>
