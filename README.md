@@ -29,7 +29,7 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 >
 >  Ut <b>enim ad minim veniam quis</b> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-> 
+>
 
 <!-- FEATURES TABLES -->
 <table align="center">
@@ -38,14 +38,16 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 - [x] Feature Completed
 - [ ] Feature Requested
-- 🖈 Feature in progress
+🖈. Feature in progress
+  - SubTask
 
 </td>
 <td width="400px" align="left">
 
 - [x] Bug Completed
 - [ ] Bug Requested
-- 🖈 Bug in progress
+🖈. Bug in progress
+  - SubTask
 
 </td>
 </tr>
