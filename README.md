@@ -8,7 +8,7 @@
  </p>
 </header>
 
-##  :information_source: Introduction   
+#  :information_source: Introduction   
 
 <!-- INTRODUCTION & LAST NEWS -->
 __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -22,14 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
-### :medal_sports: Features
+## :medal_sports: Features
 
 <!-- FEATURES ARCHIEVED -->
 Some features **archieved** by the app or developed in the last stable release. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 >
-> #### Ut enim ad minim veniam ####  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
->
+>  Ut <b>enim ad minim veniam quis</b> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> 
 
 <!-- FEATURES TABLES -->
 <table align="center">
@@ -54,11 +54,11 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 <!-- TABLE OF CONTENTS -->
 
-### :page_with_curl: Table of Contents
+## :page_with_curl: Table of Contents
 
 <details><summary><sup><h4>(click to expand)</h4></sup></summary><p>
 
-####  Indice
+###  Indice
 
 - [Introduction](#-introduction)
   - [Features](#-features)
@@ -79,36 +79,34 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 <!-- INSTALLATION  SECTION -->
 
-## :factory: Installation
+# :factory: Installation
 
-### :construction: Requirements
+## :construction: Requirements
 
 <!-- USERGUIDE -->
 
-## :construction_worker:  User Guide
+# :construction_worker:  User Guide
 
 <!-- CONTRIBUTE -->
 
-## :love_letter: Contribute
+# :love_letter: Contribute
 
-### :bug: Bug/Feature Request
+## :bug: Bug/Feature Request
 
-### :innocent: Code of Conduct
+## :innocent: Code of Conduct
 
 <!-- TEAM -->
 
-## :basketball: Team
+# :basketball: Team
 
 <!-- LICENSE -->
 
-## :mortar_board: License
+# :mortar_board: License
 **Licensed under the Apache License, Version 2.0 (the "License")**
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
 <p align="center"><sub><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub></p>
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS".**
-
+<sub>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS".**
 **BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
-
-See the License for the specific language governing permissions and limitations under the License.
+See the License for the specific language governing permissions and limitations under the License.</sub>
