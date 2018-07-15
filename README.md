@@ -85,8 +85,6 @@ var x = 1;
 ---
 
 
-ᄽ(◕̲̎◡͛◕̲)ᄿ
-
 </p></details>
 
 <!-- INSTALLATION  -->
