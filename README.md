@@ -1,6 +1,6 @@
 <!-- PROJECT DESCRIPTION -->
 <h1 align="center">ლ(｡◕‿‿◕｡)づ<br/>README TEMPLATE</h1>
-<p align="center">Basic project README.MD<br/><br/>
+<p align="center">README.MD TEMPLATE PROJECT<br/><br/>
 <!-- BADGET BUTTONS --> 
 <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
 <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
@@ -25,9 +25,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <p>Main features on las stable release</p>
 
 <p>
-<div width="100%" style="display:block;">
+<div width="100%" style="display:inline-block;">
 <span width="150px" style="display:inline-block;float:left;">1</span>
-<span width="150px" style="display:inline-block;float:left;">2</span>
+<span width="150px" style="display:inline-block;">2</span>
 </div>
 </p>
 <br/>
