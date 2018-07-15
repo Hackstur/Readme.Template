@@ -58,7 +58,7 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 ## :page_with_curl: Table of Contents
 
-<details><summary><sup><h4>(click to expand)</h4></sup></summary><p>
+<details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
 
 ###  Indice
 
