@@ -21,7 +21,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<form>
+
 <fieldset>
 <legend>Choose your favorite monster</legend>
 
@@ -34,7 +34,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <input type="radio" id="mothman" name="monster">
 <label for="mothman">Mothman</label>
 </fieldset>
-</form>
+
 
 ### **Features**
 <p>Main features on las stable release</p>
