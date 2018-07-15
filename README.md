@@ -83,8 +83,7 @@ var x = 1;
 - [Team](#️-team)
 - [License](#-license)
 ---
-ᄽ(⋋[[ ͛⋌)ᄿ
-[    kjhoi
+ᄽ(⋋_̎⋌͛)ᄿ
 </p></details>
 
 <!-- INSTALLATION  -->
