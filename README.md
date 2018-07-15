@@ -13,63 +13,76 @@
 <!-- INTRODUCTION & LAST NEWS -->
 **README.TEMPLATE**, pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.
 
-Below this introduction you can find, above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, Etc, etc.
+Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.
 
 <br/><p align="center"><img src="http://via.placeholder.com/500x300"></img></p><br/>
 
-Please, feel you free of
-
+<!-- Workaround for quote inside code -->
+<big><pre>
+If you want to improve this project, please, read the Contributors section.
+</pre></big>
 
 ## :medal_sports: Features
 
 <!-- FEATURES ARCHIEVED -->
 
-```
+
 Some features **archieved** by the app or developed in the last stable release. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
->  
->  Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
->  
-```
+
+>  Any important message to the `community`
+
+
 
 <!-- FEATURES TABLES -->
 <table align="center">
 <tr width="800px" style="display:table-style;">
 <td width="400px" align="left" style="display:cell-style;">
 
-- [x] Feature Completed
-- [ ] Feature Requested
-- [ ] Feature in progress
-- [ ] SubTask
+- [x] Project started.
+- [ ] Develop first layout version.
+- [ ] Recollect useful information to keep inside (or near) this document.
 
 </td>
 <td width="400px" align="left">
 
-- [x] Bug Completed
+- [ ] Bug Completed
 - [ ] Bug Requested
 - [ ] Bug in progress
-- [ ] SubTask
 
 </td>
 </tr>
 </table>
 
-<pre>
+<!---------------------------- TIPS SECTION ------------------------------------->
+<!-- USEFUL LINKS AND CHEATSHEET-->
 
-a Version
-
-</pre>
-
-
-
-
-<!-- TABLE OF CONTENTS -->
-
-## :page_with_curl: Table of Contents
+#### :page_with_curl: Useful Links
 
 <details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
 
-###  Indice
+<dl>
+ <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
+ <dd>A useful  </dd>
+ <dt>Milk</dt>
+ <dd>White cold drink</dd>
+</dl>
+
+---
+
+</p></details>
+
+
+
+<!---------------------------- TIPS SECTION ------------------------------------->
+
+<!-- TABLE OF CONTENTS -->
+
+### :page_with_curl: Table of Contents
+
+<details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
+
+####  Indice
 
 - [Introduction](#-introduction)
   - [Features](#-features)
@@ -101,6 +114,8 @@ a Version
 <!-- CONTRIBUTE -->
 
 # :love_letter: Contribute
+
+Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
 
 ## :bug: Bug/Feature Request
 
