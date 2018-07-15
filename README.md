@@ -83,7 +83,9 @@ var x = 1;
 - [Team](#️-team)
 - [License](#-license)
 ---
-ᄽ(╹◡╹ࣲ)ᄿ
+
+ᄽ(ꈍ̎̎̎◡͛ꈍ)ᄿ̀
+
 </p></details>
 
 <!-- INSTALLATION  -->
