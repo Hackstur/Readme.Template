@@ -1,6 +1,6 @@
 <!-- PROJECT DESCRIPTION -->
-<h1 align="center">( ｡◕‿‿◕｡ )<br/>README TEMPLATE</h1>
-<p align="center">Your project description<br/><br/>
+<h1 align="center">ლ(｡◕‿‿◕｡)づ<br/>README TEMPLATE</h1>
+<p align="center">Basic project README.MD<br/><br/>
 <!-- BADGET BUTTONS --> 
 <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
 <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
