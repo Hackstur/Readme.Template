@@ -27,9 +27,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <!-- FEATURES ARCHIEVED -->
 Some features **archieved** by the app or developed in the last stable release. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
->
->  Ut <b>enim ad minim veniam quis</b> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
->
+>  
+>  Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>  
 
 <!-- FEATURES TABLES -->
 <table align="center">
@@ -38,16 +38,16 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 - [x] Feature Completed
 - [ ] Feature Requested
-🖈. Feature in progress
-  - SubTask
+  -🖈. Feature in progress
+    - SubTask
 
 </td>
 <td width="400px" align="left">
 
 - [x] Bug Completed
 - [ ] Bug Requested
-🖈. Bug in progress
-  - SubTask
+ - 🖈. Bug in progress
+   - SubTask
 
 </td>
 </tr>
