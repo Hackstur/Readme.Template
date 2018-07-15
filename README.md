@@ -11,7 +11,7 @@
 <!-- INTRODUCTION -->
 <dl><dt>
  
-# 🛈 **__Introduction__**
+# 🛈 __Introduction__
 
 </dt><dd>
  
@@ -27,7 +27,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 </dd><dt>
  
-## **Features**
+## 🏁 __Features__
 
 </dt><dd>
 Some features archieved by the app or developed in the last stable release.
@@ -40,8 +40,8 @@ var x = 1;
 <br/>
 
 <table align="center">
-<tr width="900px" style="display:table-style;">
-<td width="50%" align="center">
+<tr width="800px" style="display:table-style;">
+<td width="400px" align="center" style="display:cell-style;">
 
 ```
  - [ ] Feature 1
@@ -50,7 +50,7 @@ var x = 1;
  ```
 
 </td>
-<td width="50%" align="center">
+<td width="400px" align="center">
 
 ```
  - [ ] Feature 1
