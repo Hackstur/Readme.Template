@@ -25,7 +25,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-</dd><dt>↵
+</dd><dt>
+ 
 ## **Features**
 
 </dt><dd>
@@ -44,32 +45,28 @@ var x = 1;
 
 <br/>
 
-```
-<pre>
 <table align="center">
 <tr width="100%">
 <td width="50%" align="center">
-</pre>
 
+```
  - [ ] Feature 1
  - [ ] Feature 2
  - [ ] Feature 3
+ ```
 
-<pre>
 </td>
 <td width="50%" align="center">
-</pre>
 
+```
  - [ ] Feature 1
  - [ ] Feature 2
  - [ ] Feature 3
-<pre> 
+```
 </td>
 </tr>
 </table>
-</pre>
 
-```
 
 <!-- TABLE OF CONTENTS -->
 </dd>
