@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <header>
  <h1 align="center"><strong>ლ(｡◕‿‿◕｡)づ</strong><br/>README TEMPLATE</h1>
- <p align="center">README.MD TEMPLATE PROJECT<br/><br/>
+ <p align="center">README.TEMPLATE PROJECT<br/><br/>
   <!-- BADGET BUTTONS -->
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
   <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
@@ -11,13 +11,13 @@
 #  :information_source: Introduction   
 
 <!-- INTRODUCTION & LAST NEWS -->
-__Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, *quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**README.TEMPLATE**, pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.
+
+Below this introduction you can find, above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, Etc, etc.
 
 <br/><p align="center"><img src="http://via.placeholder.com/500x300"></img></p><br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please, feel you free of
 
 
 ## :medal_sports: Features
@@ -39,16 +39,16 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 - [x] Feature Completed
 - [ ] Feature Requested
-  -🖈. Feature in progress
-    - SubTask
+      -[ ] 🖈 Feature in progress
+      - [ ] SubTask
 
 </td>
 <td width="400px" align="left">
 
 - [x] Bug Completed
 - [ ] Bug Requested
- - 🖈. Bug in progress
-   - SubTask
+      -[ ] 🖈 Bug in progress
+      - [ ] Bug
 
 </td>
 </tr>
