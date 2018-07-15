@@ -36,8 +36,17 @@ Some features **archieved** by the app or developed in the last stable release. 
 <tr width="800px" style="display:table-style;">
 <td width="400px" align="left" style="display:cell-style;">
 
+- [x] Feature Completed
+- [ ] Feature Requested
+- 🖈 Feature in progress
+
 </td>
 <td width="400px" align="left">
+
+- [x] Bug Completed
+- [ ] Bug Requested
+- 🖈 Bug in progress
+
 </td>
 </tr>
 </table>
@@ -47,7 +56,7 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 ### :page_with_curl: Table of Contents
 
-<details><summary><sup>(click to expand)</sup></summary><p>
+<details><summary><sup><h4>(click to expand)</h4></sup></summary><p>
 
 ####  Indice
 
