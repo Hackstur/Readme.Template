@@ -24,13 +24,26 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### **Features**
 Some features archieved by the app or developed in the last stable release.
 
-
-[]()             | 
------------------|--------------------
- - [x] Feature 1 | - [x] Feature 3                             
- - [x] Feature 2 | - [x] Feature 3
-
-                 
+<table align="center">
+<tr>
+<td align="center">
+<!-- First features columns -->
+ 
+ - [ ] Feature 1
+ - [ ] Feature 2
+ - [ ] Feature 3
+ 
+</td>
+<td align="center">
+<!-- Second features columns -->
+ 
+ - [ ] Feature 1
+ - [ ] Feature 2
+ - [ ] Feature 3
+ 
+</td>
+</tr>
+</table>
 
 <!-- TABLE OF CONTENTS -->
 <br/>
