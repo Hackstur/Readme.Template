@@ -22,39 +22,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### **Features**
-<p>Main features on las stable release</p>
+Some features archieved by the app or developed in the last stable release.
+                                    
+----------------|------------------
+- [x] Feature 1 | - [x] Feature 4
+- [ ] Feature 2 | - [ ] Feature 5
+- [ ] Feature 3 | - [ ] Feature 6
+                                    
 
-<table width="100%" style="display:>
-<thead>
-<tr>
-<th width="50%">
-<div style="border:1px solid black;">
-
-- [x] Feature 1
-- [ ] Feature 2
-- [ ] 
-
-</div>
-</th>
-<th>ID</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<ul style="display:table;list-style:none;padding:0;">
-<li style="display:inline-block;">lol</li> 
-<li " style="display:inline-block;">ailo</li> 
-</ul>
-
-[TOCM]
-
-[TOC]
 <!-- TABLE OF CONTENTS -->
 <br/>
 <details>
- <summary>Table of Contents 🕮<br/><sup>&ensp;&emsp;&ensp; (click to expand)</sup></summary>
-
+<summary>Table of Contents 🕮<br/><sup>&ensp;&emsp;&ensp; (click to expand)</sup></summary>  
+ 
 - [Introduction](#-introduction)
     - [Features](#-features)
     - [Table of Contents](#-table-of-contents)
@@ -71,6 +51,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <!-- INSTALLATION  -->
 ## 💾 **Installation**
+
+### 🛒 **Requirements**
 
 <!-- USERGUIDE -->
 ## 👷 **User Guide**
