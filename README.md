@@ -2,19 +2,20 @@
 <header>
  <h1 align="center"><strong>ლ(｡◕‿‿◕｡)づ</strong><br/>README TEMPLATE</h1>
  <p align="center">README.MD TEMPLATE PROJECT<br/><br/>
-  <!-- BADGET BUTTONS --> 
+  <!-- BADGET BUTTONS -->
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
   <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
  </p>
 </header>
 
-<!-- INTRODUCTION -->
 <dl><dt>
- 
-# 🛈 **__Introduction__**
+
+##  :information_source: Introduction   
+
+<!-- INTRODUCTION & NEWS -->
 
 </dt><dd>
- 
+
 __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, *quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
  Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -25,16 +26,16 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+
+
 </dd><dt>
- 
-## **Features**
+
+###  :medal_sports: Features   
+
+<!-- FEATURES ARCHIEVED -->
 
 </dt><dd>
 Some features archieved by the app or developed in the last stable release.
-
-```cs
-var x = 1;
-```
 </details>
 
 <br/>
@@ -68,45 +69,44 @@ var x = 1;
 
 <details><summary>Table of Contents 🕮<br/><sup>(click to expand)</sup></summary><p>
 
-# **Table of Contents 🕮**  [a](link)
+### **Table of Contents 🕮**  [a](link)
 
- - [Introduction](#-introduction)
+- [Introduction](#-introduction)
   - [Features](#-features)
   - [Table of Contents](#-table-of-contents)
 - [Installation](#-installation)
   - [Requirements](#-requirements)
-  - [Install 
-- [User Guide](#-user-guide)
+  - [User Guide](#-user-guide)
 - [Contribute](#-contribute)
   - [Bug/Feature Request](#-bug/feature-request)
+  - [Code of Conduct](#code-of-conduct)
 - [Team](#️-team)
 - [License](#-license)
 ---
 
-
 </p></details>
 
 <!-- INSTALLATION  -->
-# 💾 **Installation**
+## 💾 **Installation**
 
-## 🛒 **Requirements**
+### 🛒 **Requirements**
 
 <!-- USERGUIDE -->
-# 👷 **User Guide**
+## 👷 **User Guide**
 
 <!-- CONTRIBUTE -->
-# 💎 **Contribute**
+## 💎 **Contribute**
 
-## 🐞 **Bug/Feature Request**
+### 🐞 **Bug/Feature Request**
 
-## ⛪ **Code of Conduct**
+### ⛪ **Code of Conduct**
 
 <!-- TEAM -->
-# ❤️ **Team**
+## ❤️ **Team**
 
 <!-- LICENSE -->
 # 🎓 **License**
-## **Licensed under the Apache License, Version 2.0 (the "License")** 
+## **Licensed under the Apache License, Version 2.0 (the "License")**
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
 <p align="center"><sub><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub></p>
@@ -116,4 +116,3 @@ Unless required by applicable law or agreed to in writing, software distributed 
 **BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
 
 See the License for the specific language governing permissions and limitations under the License.
-
