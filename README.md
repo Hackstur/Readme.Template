@@ -83,32 +83,38 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ### ⛪ **Code of Conduct**
 
 
-### Flowchart
+#### Setting
 
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
+{
+   sequenceDiagram : true
+}
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-[========]
-
-### Sequence Diagram
+#### Syntax
 
 ```seq
+.........
+```
+
+# or
+
+```sequence
+.........
+```
+
+#### Example
+
+```seq
+A->B: Message
+B->C: Message
+C->A: Message
+```
+
+```sequence
 Andrew->China: Says Hello 
 Note right of China: China thinks\nabout it 
 China-->Andrew: How are you? 
 Andrew->>China: I am good thanks!
 ```
-
-### End
-
 
 <!-- TEAM -->
 ## ❤️ **Team**
