@@ -8,8 +8,6 @@
  </p>
 </header>
 
-◕◉‿‿◉◕
-
 <!-- INTRODUCTION -->
 <dl><dt>
  
