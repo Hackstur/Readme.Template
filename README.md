@@ -8,14 +8,9 @@
  </p>
 </header>
 
-<dl><dt>
-
 ##  :information_source: Introduction   
 
-<!-- INTRODUCTION & NEWS -->
-
-</dt><dd>
-
+<!-- INTRODUCTION & LAST NEWS -->
 __Lorem ipsum dolor sit amet__, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, *quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
  Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -26,38 +21,32 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-
-
-</dd><dt>
-
 ###  :medal_sports: Features   
 
 <!-- FEATURES ARCHIEVED -->
+Some features **archieved** by the app or developed in the last stable release. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-</dt><dd>
-Some features archieved by the app or developed in the last stable release.
-</details>
+>
+> #### Ut enim ad minim veniam ####  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+>
 
-<br/>
-
+<!-- FEATURES TABLES -->
 <table align="center">
 <tr width="900px" style="display:table-style;">
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-```
- - [ ] Feature 1
- - [ ] Feature 2
- - [ ] Feature 3
- ```
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-```
- - [ ] Feature 1
- - [ ] Feature 2
- - [ ] Feature 3
-```
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+
 </td>
 </tr>
 </table>
