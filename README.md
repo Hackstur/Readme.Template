@@ -63,16 +63,22 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 <dl>
  <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
- <dd>A useful  </dd>
+ <dd>A useful compilation of well designed Markdown README documents and some articles of interest.</dd>
  <dt>Milk</dt>
  <dd>White cold drink</dd>
 </dl>
 
----
-
+---\
 </p></details>
+<!-- USEFUL HTML/MARKDOWN SNIPPETS -->
+
+#### :page_with_curl: Useful Snippets
+
+<details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
 
 
+---\
+</p></details>
 
 <!---------------------------- TIPS SECTION ------------------------------------->
 
