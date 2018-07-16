@@ -4,17 +4,20 @@
  <p align="center">README.TEMPLATE PROJECT<br/><br/>
   <!-- BADGET BUTTONS -->
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
-  <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
+  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
  </p>
 </header>
 <p></p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
 
 <!-- INTRODUCTION & LAST NEWS -->
-**README.TEMPLATE**, pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.
-Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.  
+**README.TEMPLATE** pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.  
+<sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
+
+ - To date i have included a basic layout and elements, as well as some useful links and tips.
+ 
 
 <p align="center">
-[![Alt text](http://via.placeholder.com/700x300?text=Image+of+project)](#link-to-Uri)
+[![Place here you image](http://via.placeholder.com/700x300?text=d.^_^.b)](#link)
 </p>
 
 <!-- Workaround for quote inside code -->
@@ -26,7 +29,7 @@ If you want to improve this project, please, read the 'Contributors section'.
 ## 🏅 Features
 
 <!-- FEATURES ARCHIEVED -->
-A resume of the goals archieved.
+A resume of the goals archieved in this document.
 
 >  Any important message to the `community`
 
@@ -45,9 +48,7 @@ A resume of the goals archieved.
 <td width="400px" align="left">
 
 - [X] Bug/Task Completed (100%)  
-..<progress value="100" max="100"></progress>
 - [ ] Bug/Task in progress (50%)  
-  -[ ] <progress value="50" max="100"></progress>
 - [ ] Bug/Task requested  
 
 </td>
