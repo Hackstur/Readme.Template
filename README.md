@@ -40,7 +40,7 @@
 
 <!-- Snippets -->
 <details> <summary> Some useful Snippets (click to expand)</summary>
-<div style="padding:20px">
+<p style="padding:20px">
 ddddd
 
 ---
