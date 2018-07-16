@@ -57,15 +57,15 @@ Some features **archieved** by the app or developed in the last stable release. 
 <!---------------------------- TIPS SECTION ------------------------------------->
 <!-- USEFUL LINKS AND CHEATSHEET-->
 
-#### :page_with_curl: Useful Links
-
-<details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
+<details><summary><sup><strong> :page_with_curl: Useful Links Useful Links (click to expand)</strong></sup></summary><p>
 
 <dl>
  <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
- <dd>A useful compilation of well designed Markdown README documents and some articles of interest.</dd>
- <dt>Milk</dt>
+ <dd>Compilation of well designed Markdown README documents and some articles of interest.</dd>
+ <dt>[GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
  <dd>White cold drink</dd>
+ <dt>[GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
+ <dd>Little PDF with basic information and code snippets</dd>
 </dl>
 
 ---\
