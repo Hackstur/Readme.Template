@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <header>
  <h1 align="center"><strong> d｡◕‿↼｡bづ </strong><br/>README TEMPLATE</h1>
- <p align="center">README.TEMPLATE PROJECT<br/><br/>
   <!-- BADGET BUTTONS -->
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
@@ -10,11 +9,11 @@
 <p></p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
 
 <!-- INTRODUCTION & LAST NEWS -->
-**README.TEMPLATE** pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.  
+**README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
  - To date i have included a basic layout and elements, as well as some useful links and tips.
- 
+
 
 <p align="center">
 [![Place here you image](http://via.placeholder.com/700x300?text=d.^_^.b)](#link)
