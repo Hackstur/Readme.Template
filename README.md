@@ -1,23 +1,23 @@
 <!-- HEADER -->
 <header>
- <h1 align="center"><strong>ლ(｡◕‿‿◕｡)づ</strong><br/>README TEMPLATE</h1>
+ <h1 align="center"><strong>d｡◕‿◕｡bづ</strong><br/>README TEMPLATE</h1>
  <p align="center">README.TEMPLATE PROJECT<br/><br/>
   <!-- BADGET BUTTONS -->
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
   <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
  </p>
 </header>
-<p> </p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
-
-##  📠 Introduction   
+<p></p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
 
 <!-- INTRODUCTION & LAST NEWS -->
 **README.TEMPLATE**, pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.
 
 Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.
 
+<p align="center"> ![https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) </p>
 <p align="center"><img align="center" src="http://via.placeholder.com/700x300?text=Image+of+project" /></p>
 
+[Awesome Readme](https://github.com/matiassingers/awesome-readme)
 <!-- Workaround for quote inside code -->
 
     If you want to improve this project, please, read the Contributors section.
@@ -137,25 +137,27 @@ Some features **archieved** by the app or developed in the last stable release. 
 <!-- CONTRIBUTE -->
 
 ## 💎 Contribute
-
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
-
- - #### 🐛 Bug/Feature Request
-
- - #### 😇 Code of Conduct
+  - #### 🐛 Bug/Feature Request
+  - #### 😇 Code of Conduct
 
 <!-- TEAM -->
-
 ## 🏀 Team
-
 <!-- LICENSE -->
+## 🎓 License  
+**Licensed under ~~LICENSE~~**  
+<sub>Copyright 2018 Hacksturcon</sub>  
+ - You may not use this file except in compliance with the License.You may obtain a copy of the License at  
 
-## 🎓 License
-**Licensed under the Apache License, Version 2.0 (the "License")**
-You may not use this file except in compliance with the License.You may obtain a copy of the License at
+```Shell
+Unless required by applicable law or agreed to under the license, software distributed under the 'License' is distributed on an
+'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND', either express or implied.
 
-<p align="center"><sub><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub></p>
+Read the License document to find futher information.
+```
 
-<sub>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS".**
-**BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied.
-See the License for the specific language governing permissions and limitations under the License.</sub>
+<p align="center"> [`🡆 APACHE LICENSE 2.0 🡄`](https://www.apache.org/licenses/LICENSE-2.0) </p>
+
+<footer>
+<p> © 2018 Hacksturcon </p>
+</footer>
