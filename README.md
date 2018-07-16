@@ -38,7 +38,7 @@ A resume of the goals archieved in this document.
 </table>
 
 <p align="center">
-<img src="http://via.placeholder.com/700x300?text=d.^_^.b"/>
+<img src="http://via.placeholder.com/900x100?text=d.^_^.b+(Place+here+you+image)"/>
 </p>
 
 <!-- Workaround for quote inside code -->
@@ -51,7 +51,8 @@ A resume of the goals archieved in this document.
 <!------------------- TIPS SECTION ---------------------------->
 <!-- USEFUL LINKS AND CHEATSHEET-->
 
-<details><summary><sup><strong> Useful Links (click to expand)</strong></sup></summary><p>
+<details> ` <summary> Some useful links (click to expand)</summary>
+<p>
 
 <dl>
  <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
