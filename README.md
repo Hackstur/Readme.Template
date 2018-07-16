@@ -13,14 +13,19 @@
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
-
-
  - ### Last included:
-
-```
     - A basic layout and elements.
     - Some useful links and tips.
-```
+    - Use markdown code block as weird
+
+<p align="center" style="width:50%;float:right">
+
+- ### Last included:
+   - A basic layout and elements.
+   - Some useful links and tips.
+   - Use markdown code block as weird
+
+</p>
 
 <p align="center">
 <img src="http://via.placeholder.com/700x300?text=d.^_^.b"/>
@@ -28,18 +33,12 @@
 
 <!-- Workaround for quote inside code -->
 
-````Shell
-If you want to improve this project, please, read the 'Contributors section'.
-````
+> If you want to **improve** this project, please, **read** the [Contributors section](#contributors).
 
 ## 🏅 Features
 
 <!-- FEATURES ARCHIEVED -->
 A resume of the goals archieved in this document.
-
->  Any important message to the `community`
-
-
 
 <!-- FEATURES TABLES -->
 <table align="center">
