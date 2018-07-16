@@ -28,7 +28,7 @@
 <p left="40px" style="left:40px">
 
 * **Awesome Readme**  
-.. Compilation of well designed Markdown README documents and some articles of interest.
+Compilation of well designed Markdown README documents and some articles of interest.
 * **Github Help Site**
   * You know, the official guide.
 * **Github PDF CheatSheet**
