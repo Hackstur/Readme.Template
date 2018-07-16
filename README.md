@@ -2,6 +2,7 @@
 <header>
  <h1 align="center"><strong> d｡◕‿↼｡bづ </strong><br/>README TEMPLATE</h1>
   <!-- BADGET BUTTONS -->
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
  </p>
