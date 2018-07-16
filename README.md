@@ -25,14 +25,14 @@
 <!------------------- EXPANDABLE TIPS SECTION ---------------------------->
 <!-- Links -->
 <details> <summary> Some useful links (click to expand)</summary>
-<p left="40px" style="left:40px">
+<p>
 
 * **Awesome Readme**  
 Compilation of well designed Markdown README documents and some articles of interest.
-* **Github Help Site**
-  * You know, the official guide.
-* **Github PDF CheatSheet**
-    * Little cookbook.
+* **Github Help Site**  
+You know, the official guide.
+* **Github PDF CheatSheet**  
+Little cookbook.
 
 ---
 
@@ -40,8 +40,8 @@ Compilation of well designed Markdown README documents and some articles of inte
 
 <!-- Snippets -->
 <details> <summary> Some useful Snippets (click to expand)</summary>
-<p style="padding:20px">
-...ddddd
+<p>
+
 
 ---
 
@@ -56,38 +56,15 @@ Compilation of well designed Markdown README documents and some articles of inte
 
 </p></details>
 
----
-
-</p></details>
-
 <!------------------- END OF TIPS SECTION --------------------->
 <!--########## END OF README.TEMPLATE INTRODUCTION ##########-->
 
 ## 🏅 Features
 
 <!-- FEATURES ARCHIEVED -->
-I would love to have a great list of features, but it will not be like that. Its a copy of the ones of the introduction.
+I would love to have a great list of features, but it will not be like that. You'll be glad of the introduction ones.
 
-<!-- FEATURES TABLES -->
-<table align="center">
-<tr width="900px" style="display:table-style;">
-<td width="450px" align="left" style="display:cell-style;">
-
-- [X] Use of Unicode icons
-- [X] Expandable Table of Contents.
-- [ ] Expandable Sub-Sections.
-
-</td>
-<td width="450px" align="left">
-
-- [ ] Some useful links.
-- [ ] Some useful tips.
-- [ ] Markdown datasheet.
-
-</td>
-</tr>
-</table>
-
+*I HOPE MORE CONTENT*
 
 <!-- TABLE OF CONTENTS -->
 
