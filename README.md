@@ -4,7 +4,7 @@
   <!-- BADGET BUTTONS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
-  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat" />
  </p>
 </header>
 <p></p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
@@ -15,7 +15,7 @@
 
 
 
-### - Last included:
+- ### Last included:
 ```
     - A basic layout and elements.
     - Some useful links and tips.
@@ -150,20 +150,23 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 ## 🏀 Team
 <!-- LICENSE -->
 ## 🎓 License  
-**Licensed under ~~LICENSE~~**  
+**Licensed under MIT  
 <sub>Copyright 2018 Hacksturcon</sub>  
  - You may not use this file except in compliance with the License.You may obtain a copy of the License at  
 
+ <p align="center">
+ [🡆 MIT LICENSE 🡄](#MIT)
+ </p>
+
 ```Shell
-Unless required by applicable law or agreed to under the license, software distributed under the 'License' is distributed on an
-'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND', either express or implied.
+<Unless required by applicable law or agreed to under the license, software distributed under the 'License'
+is distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND',
+either express or implied.
 
 Read the License document to find futher information.
 ```
 
-<p align="center">
-[`🡆 APACHE LICENSE 2.0 🡄`](https://www.apache.org/licenses/LICENSE-2.0)
-</p>
+
 
 <footer>
 <p> © 2018 Hacksturcon </p>
