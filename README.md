@@ -15,7 +15,7 @@
 
 Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.
 
-<br/><p align="center"><img src="http://via.placeholder.com/500x300"></img></p><br/>
+<br/><p align="center"><img src="http://via.placeholder.com/500x300?text=Image+of+project"></img></p><br/>
 
 <!-- Workaround for quote inside code -->
 <big><pre>
@@ -57,14 +57,14 @@ Some features **archieved** by the app or developed in the last stable release. 
 <!---------------------------- TIPS SECTION ------------------------------------->
 <!-- USEFUL LINKS AND CHEATSHEET-->
 
-<details><summary><sup><strong> :page_with_curl: Useful Links Useful Links (click to expand)</strong></sup></summary><p>
+<details><summary><sup><strong> Useful Links (click to expand)</strong></sup></summary><p>
 
 <dl>
- <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
+ <dt>![Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
  <dd>Compilation of well designed Markdown README documents and some articles of interest.</dd>
- <dt>[GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
+ <dt>![GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
  <dd>White cold drink</dd>
- <dt>[GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
+ <dt>![GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
  <dd>Little PDF with basic information and code snippets</dd>
 </dl>
 
@@ -72,9 +72,7 @@ Some features **archieved** by the app or developed in the last stable release. 
 </p></details>
 <!-- USEFUL HTML/MARKDOWN SNIPPETS -->
 
-#### :page_with_curl: Useful Snippets
-
-<details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
+<details><summary><sup><strong>Useful Snippets (click to expand)</strong></sup></summary><p>
 
 
 ---\
