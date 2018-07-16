@@ -19,7 +19,7 @@ A resume of the goals archieved in this document.
 
 <!-- FEATURES TABLES -->
 <table align="center">
-<tr width="800px" style="display:table-style;">
+<tr width="100%" style="display:table-style;">
 <td width="50%" align="left" style="display:cell-style;">
 
 - [X] Use of Unicode icons
@@ -27,7 +27,7 @@ A resume of the goals archieved in this document.
 - [X] Expandable Sub-Sections.
 
 </td>
-<td width="400px" align="left">
+<td width="50%" align="left">
 
 - [X] Bug/Task Completed (100%)  
 - [ ] Bug/Task in progress (50%)  
