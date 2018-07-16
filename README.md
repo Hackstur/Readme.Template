@@ -156,12 +156,12 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 
  <p align="center">
 
- [🡆 MIT LICENSE 🡄](#MIT)
- 
+ ![🡆 `MIT LICENSE` 🡄](#MIT)
+
  </p>
 
 ```Shell
-<Unless required by applicable law or agreed to under the license, software distributed under the 'License'
+Unless required by applicable law or agreed to under the license, software distributed under the 'License'
 is distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND',
 either express or implied.
 
