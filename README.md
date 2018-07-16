@@ -75,6 +75,7 @@ I would love to have a great list of features and make one section for it, but i
 - [X] TOC Resume (Handly created)
 - [X] Icons with Unicode (For github pages)
 
+F**ck the, table no work with pages
 
 </td>
 <td width="400px" align="left" style="display:cell-style;float:left;">
@@ -123,22 +124,20 @@ I would love to have a great list of features and make one section for it, but i
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
-  - #### 🐛 Bug/Feature Request
-  - #### 😇 Code of Conduct
+  - ### 🐛 Bug/Feature Request
+  - ### 😇 Code of Conduct
 
 <!-- TEAM -->
 ## 🏀 Team
+
+* By moment, only me.
+
 <!-- LICENSE -->
 
 ## 🎓 License  
 
 <sub>Copyright 2018 Hacksturcon</sub>  
- - This project is under [`MIT`](#MIT) License.
- <p align="center">
-
- [🡆`MIT LICENSE`🡄](#MIT)
-
- </p>
+ - This project is under [MIT](#MIT) License.
 
 ```Shell
 Unless required by applicable law or agreed to under the license, software distributed under the 'License'
@@ -147,8 +146,6 @@ either express or implied.
 
 Read the License document to find futher information.
 ```
-
-
 
 <footer>
 <p> © 2018 Hacksturcon </p>
