@@ -20,19 +20,19 @@
 
 > If you want to **improve** this project, please, **read** the [Contributors section](#contributors).
 
----
+
 
 <!------------------- EXPANDABLE TIPS SECTION ---------------------------->
 <!-- Links -->
 <details> <summary> Some useful links (click to expand)</summary>
 <p>
 
-* **Awesome Readme**  
-Compilation of well designed Markdown README documents and some articles of interest.
-* **Github Help Site**  
-You know, the official guide.
-* **Github PDF CheatSheet**  
-Little cookbook.
+* [**Awesome Readme**](https://github.com/Hacksturcon/awesome-readme)  
+Compilation of well designed Markdown README documents and some articles of interest.  
+* [**Github Help Site**](https://help.github.com/categories/writing-on-github/)  
+You know, the official guide.  
+* [**Markdown PDF CheatSheet**](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+Little cookbook.  
 
 ---
 
