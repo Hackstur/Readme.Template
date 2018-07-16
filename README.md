@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <header>
- <h1 align="center"><strong>d｡◕‿◕｡bづ</strong><br/>README TEMPLATE</h1>
+ <h1 align="center"><strong> d｡◕‿↼｡bづ </strong><br/>README TEMPLATE</h1>
  <p align="center">README.TEMPLATE PROJECT<br/><br/>
   <!-- BADGET BUTTONS -->
   <img src="https://img.shields.io/badge/Status-Development-lightgray.svg?style=flat" />
@@ -11,17 +11,16 @@
 
 <!-- INTRODUCTION & LAST NEWS -->
 **README.TEMPLATE**, pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.
-
 Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.
 
-<p align="center"> ![https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) </p>
-<p align="center"><img align="center" src="http://via.placeholder.com/700x300?text=Image+of+project" /></p>
-
-[Awesome Readme](https://github.com/matiassingers/awesome-readme)
+<br/><br/>
+<p align="center"> ![https://github.com/matiassingers/awesome-readme](http://via.placeholder.com/700x300?text=Image+of+project) </p>
+<br/>
 <!-- Workaround for quote inside code -->
 
-    If you want to improve this project, please, read the Contributors section.
-
+````Shell
+If you want to improve this project, please, read the Contributors section.
+````
 
 ## 🏅 Features
 
