@@ -13,10 +13,14 @@
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
+```
+
  - Last included:
 
     - A basic layout and elements.
     - Some useful links and tips.
+
+```
 
 <p align="center">
 <img src="http://via.placeholder.com/700x300?text=d.^_^.b"/>
