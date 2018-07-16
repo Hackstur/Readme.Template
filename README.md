@@ -19,19 +19,19 @@ A resume of the goals archieved in this document.
 
 <!-- FEATURES TABLES -->
 <table align="center">
-<tr width="100%" style="display:table-style;">
+<tr width="900px" style="display:table-style;">
 <td width="50%" align="left" style="display:cell-style;">
 
 - [X] Use of Unicode icons
 - [X] Expandable Table of Contents.
-- [X] Expandable Sub-Sections.
+- [ ] Expandable Sub-Sections.
 
 </td>
 <td width="50%" align="left">
 
-- [X] Bug/Task Completed (100%)  
-- [ ] Bug/Task in progress (50%)  
-- [ ] Bug/Task requested  
+- [ ] Some useful links.
+- [ ] Some useful tips.
+- [ ] Markdown datasheet.
 
 </td>
 </tr>
