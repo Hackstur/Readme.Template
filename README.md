@@ -15,7 +15,7 @@
 
 Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.
 
-<br/><p align="center"><img src="http://via.placeholder.com/500x300?text=Image+of+project"></img></p><br/>
+<br/><p align="center"><img src="http://via.placeholder.com/700x300?text=Image+of+project"></img></p><br/>
 
 <!-- Workaround for quote inside code -->
 <big><pre>
