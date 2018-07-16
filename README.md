@@ -15,7 +15,8 @@
 
 
 
-- ### Last included:
+ - ### Last included:
+
 ```
     - A basic layout and elements.
     - Some useful links and tips.
@@ -149,14 +150,14 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 <!-- TEAM -->
 ## 🏀 Team
 <!-- LICENSE -->
-## 🎓 License  
-**Licensed under MIT  
-<sub>Copyright 2018 Hacksturcon</sub>  
- - You may not use this file except in compliance with the License.You may obtain a copy of the License at  
 
+## 🎓 License  
+
+<sub>Copyright 2018 Hacksturcon</sub>  
+ - This project is under [`MIT`](#MIT) License.
  <p align="center">
 
- ![🡆 `MIT LICENSE` 🡄](#MIT)
+ [🡆`MIT LICENSE`🡄](#MIT)
 
  </p>
 
