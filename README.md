@@ -14,16 +14,8 @@
 
  - To date i have included a basic layout and elements, as well as some useful links and tips.
 
-
 <p align="center">
-<<<<<<< HEAD
-[![http://via.placeholder.com/700x300?text=d.^_^.be](http://via.placeholder.com/700x300?text=d.^\_^.b)](http://via.placeholder.com/700x300?text=d.^_^.b)
-
-<img src="http://via.placeholder.com/700x300?text=d.^_^.b" />
-
-=======
-[![http://via.placeholder.com/700x300?text=d.^\_^.be](http://via.placeholder.com/700x300?text=d.^\_^.b)](http://via.placeholder.com/700x300?text=d.^\_^.b)
->>>>>>> a52f60002d3435036c84286895c27620a167bcdc
+<img src="http://via.placeholder.com/700x300?text=d.^_^.b"/>
 </p>
 
 <!-- Workaround for quote inside code -->
