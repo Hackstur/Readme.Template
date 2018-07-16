@@ -51,7 +51,7 @@ A resume of the goals archieved in this document.
 <!------------------- TIPS SECTION ---------------------------->
 <!-- USEFUL LINKS AND CHEATSHEET-->
 
-<details> ` <summary> Some useful links (click to expand)</summary>
+<details> You can contribute here. <summary> Some useful links (click to expand)</summary>
 <p>
 
 <dl>
