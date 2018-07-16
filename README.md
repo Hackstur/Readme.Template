@@ -9,14 +9,14 @@
 <p></p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
 
 <!-- INTRODUCTION & LAST NEWS -->
-**README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.
+**README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
  - To date i have included a basic layout and elements, as well as some useful links and tips.
 
 
 <p align="center">
-[![Place here you image](http://via.placeholder.com/700x300?text=d.^_^.b)](#link)
+[![http://via.placeholder.com/700x300?text=d.^_^.be](http://via.placeholder.com/700x300?text=d.^_^.b)](#link)
 </p>
 
 <!-- Workaround for quote inside code -->
