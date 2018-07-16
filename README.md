@@ -41,7 +41,7 @@
 <!-- Snippets -->
 <details> <summary> Some useful Snippets (click to expand)</summary>
 <p style="padding:20px">
-ddddd
+...ddddd
 
 ---
 
