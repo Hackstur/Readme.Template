@@ -7,25 +7,23 @@
   <img src="https://img.shields.io/badge/License-Apache_2.0-orange.svg?style=flat" />
  </p>
 </header>
+<p> </p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
 
-#  📠 Introduction   
+##  📠 Introduction   
 
 <!-- INTRODUCTION & LAST NEWS -->
 **README.TEMPLATE**, pretends to be my own template for Readme.md files, even a little cheatsheet until i know by heart all GitHub tools.
 
 Below this introduction , above the Table of Contents, you can find a cheatsheet with useful tips abour Markdown syntax, Unicode Icons, Bag Services, etc, etc.
 
-
-<img align="center" src="http://via.placeholder.com/700x300?text=Image+of+project"></img>
-
-
+<p align="center"><img align="center" src="http://via.placeholder.com/700x300?text=Image+of+project" /></p>
 
 <!-- Workaround for quote inside code -->
-<big><pre>
-If you want to improve this project, please, read the Contributors section.
-</pre></big>
 
-## :medal_sports: Features
+    If you want to improve this project, please, read the Contributors section.
+
+
+## 🏅 Features
 
 <!-- FEATURES ARCHIEVED -->
 
@@ -63,33 +61,51 @@ Some features **archieved** by the app or developed in the last stable release. 
 <details><summary><sup><strong> Useful Links (click to expand)</strong></sup></summary><p>
 
 <dl>
- <dt>![Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
+ <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
  <dd>Compilation of well designed Markdown README documents and some articles of interest.</dd>
- <dt>![GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
+ <dt>[GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
  <dd>White cold drink</dd>
- <dt>![GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
+ <dt>[GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
  <dd>Little PDF with basic information and code snippets</dd>
 </dl>
 
----\
+---
+
 </p></details>
 <!-- USEFUL HTML/MARKDOWN SNIPPETS -->
 
 <details><summary><sup><strong>Useful Snippets (click to expand)</strong></sup></summary><p>
 
 
----\
+---
+
+</p></details>
+
+<!-- USEFUL TIPS -->
+
+<details><summary><sup><strong>Useful Snippets (click to expand)</strong></sup></summary><p>
+<dl>
+ <dt> [Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
+ <dd>Compilation of well designed Markdown README documents and some articles of interest.</dd>
+ <dt>[GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
+ <dd>White cold drink</dd>
+ <dt>[GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
+ <dd>Little PDF with basic information and code snippets</dd>
+</dl>
+
+---
+
 </p></details>
 
 <!---------------------------- TIPS SECTION ------------------------------------->
 
 <!-- TABLE OF CONTENTS -->
 
-### :page_with_curl: Table of Contents
+## 📑 Table of Contents
 
 <details><summary><sup><strong>(click to expand)</strong></sup></summary><p>
 
-####  Indice
+####  Index
 
 - [Introduction](#-introduction)
   - [Features](#-features)
@@ -110,31 +126,31 @@ Some features **archieved** by the app or developed in the last stable release. 
 
 <!-- INSTALLATION  SECTION -->
 
-# :factory: Installation
+## 🏭 Installation
 
-## :construction: Requirements
+- ### 🛒 Requirements
 
 <!-- USERGUIDE -->
 
-# :construction_worker:  User Guide
+- ### 👷 User Guide
 
 <!-- CONTRIBUTE -->
 
-# :love_letter: Contribute
+## 💎 Contribute
 
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
 
-## :bug: Bug/Feature Request
+ - #### 🐛 Bug/Feature Request
 
-## :innocent: Code of Conduct
+ - #### 😇 Code of Conduct
 
 <!-- TEAM -->
 
-# :basketball: Team
+## 🏀 Team
 
 <!-- LICENSE -->
 
-# :mortar_board: License
+## 🎓 License
 **Licensed under the Apache License, Version 2.0 (the "License")**
 You may not use this file except in compliance with the License.You may obtain a copy of the License at
 
