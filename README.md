@@ -11,6 +11,9 @@
 <!------------------- END OF HEADER SECTION -------------------->
 
 <!-- INTRODUCTION -->
+
+## 💬 Introduction  
+
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
@@ -70,7 +73,7 @@ I would love to have a great list of features and make one section for it, but i
 **Achieved**
 - [X] Basic project layout
 - [X] TOC Resume (Handly created)
-- [X] Icons with Unicode (Seems like Github icons no work in github pages)
+- [X] Icons with Unicode (For github pages)
 
 
 </td>
