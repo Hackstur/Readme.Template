@@ -20,14 +20,14 @@ A resume of the goals archieved in this document.
 <!-- FEATURES TABLES -->
 <table align="center">
 <tr width="900px" style="display:table-style;">
-<td width="50%" align="left" style="display:cell-style;">
+<td width="450px" align="left" style="display:cell-style;">
 
 - [X] Use of Unicode icons
 - [X] Expandable Table of Contents.
 - [ ] Expandable Sub-Sections.
 
 </td>
-<td width="50%" align="left">
+<td width="450px" align="left">
 
 - [ ] Some useful links.
 - [ ] Some useful tips.
