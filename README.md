@@ -13,19 +13,28 @@
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
- - ### Last included:
-    - A basic layout and elements.
-    - Some useful links and tips.
-    - Use markdown code block as weird
+<!-- FEATURES ARCHIEVED -->
+A resume of the goals archieved in this document.
 
-<p align="center" style="width:50%;float:right">
+<!-- FEATURES TABLES -->
+<table align="center">
+<tr width="800px" style="display:table-style;">
+<td width="400px" align="left" style="display:cell-style;">
 
-- ### Last included:
-   - A basic layout and elements.
-   - Some useful links and tips.
-   - Use markdown code block as weird
+- [X] Use of Unicode icons
+- [X] Expandable Table of Contents.
+- [X] Expandable Sub-Sections.
 
-</p>
+</td>
+<td width="400px" align="left">
+
+- [X] Bug/Task Completed (100%)  
+- [ ] Bug/Task in progress (50%)  
+- [ ] Bug/Task requested  
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="http://via.placeholder.com/700x300?text=d.^_^.b"/>
