@@ -15,7 +15,7 @@
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
 <!-- FEATURES ARCHIEVED -->
-A resume of the goals archieved in this document.
+A summary of the objectives achieved (and plannified) in this project.
 
 <!-- FEATURES TABLES -->
 <table align="center">
@@ -52,16 +52,15 @@ A resume of the goals archieved in this document.
 <!-- USEFUL LINKS AND CHEATSHEET-->
 
 <details> <summary> Some useful links (click to expand)</summary>
-<p>
+<p style="padding-left:40px">
 
-<dl>
- <dt>[Awesome Readme](https://github.com/matiassingers/awesome-readme)</dt>
- <dd>Compilation of well designed Markdown README documents and some articles of interest.</dd>
- <dt>[GitHub Markdown Help site](https://help.github.com/categories/writing-on-github/) </dt>
- <dd>White cold drink</dd>
- <dt>[GitHub PDF Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)</dt>
- <dd>Little PDF with basic information and code snippets</dd>
-</dl>
+* **Awesome Readme**
+  * Compilation of well designed Markdown README documents and some articles of interest.
+* **Github Help Site**
+  * You know, the official guide.
+* **Github PDF CheatSheet**
+    * Little cookbook.
+
 
 ---
 
