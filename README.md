@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!------------------- HEADER SECTION -------------------------->
 <header>
  <h1 align="center"><strong> d｡◕‿↼｡bづ </strong><br/>README TEMPLATE</h1>
   <!-- BADGET BUTTONS -->
@@ -8,8 +8,9 @@
  </p>
 </header>
 <p></p> <!-- BLANK PARAGRAPH TO FIX HTML HEADER IN GITHUB PAGES TEMPLATE -->
+<!------------------- END OF HEADER SECTION -------------------->
 
-<!-- INTRODUCTION & LAST NEWS -->
+<!-- INTRODUCTION -->
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
@@ -19,7 +20,7 @@ A resume of the goals archieved in this document.
 <!-- FEATURES TABLES -->
 <table align="center">
 <tr width="800px" style="display:table-style;">
-<td width="400px" align="left" style="display:cell-style;">
+<td width="50%" align="left" style="display:cell-style;">
 
 - [X] Use of Unicode icons
 - [X] Expandable Table of Contents.
@@ -44,32 +45,10 @@ A resume of the goals archieved in this document.
 
 > If you want to **improve** this project, please, **read** the [Contributors section](#contributors).
 
-## 🏅 Features
 
-<!-- FEATURES ARCHIEVED -->
-A resume of the goals archieved in this document.
 
-<!-- FEATURES TABLES -->
-<table align="center">
-<tr width="800px" style="display:table-style;">
-<td width="400px" align="left" style="display:cell-style;">
 
-- [X] Use of Unicode icons
-- [X] Expandable Table of Contents.
-- [X] Expandable Sub-Sections.
-
-</td>
-<td width="400px" align="left">
-
-- [X] Bug/Task Completed (100%)  
-- [ ] Bug/Task in progress (50%)  
-- [ ] Bug/Task requested  
-
-</td>
-</tr>
-</table>
-
-<!---------------------------- TIPS SECTION ------------------------------------->
+<!------------------- TIPS SECTION ---------------------------->
 <!-- USEFUL LINKS AND CHEATSHEET-->
 
 <details><summary><sup><strong> Useful Links (click to expand)</strong></sup></summary><p>
@@ -111,7 +90,35 @@ A resume of the goals archieved in this document.
 
 </p></details>
 
-<!---------------------------- TIPS SECTION ------------------------------------->
+<!------------------- END OF TIPS SECTION --------------------->
+<!--########## END OF README.TEMPLATE INTRODUCTION ##########-->
+
+## 🏅 Features
+
+<!-- FEATURES ARCHIEVED -->
+A resume of the goals archieved in this document.
+
+<!-- FEATURES TABLES -->
+<table align="center">
+<tr width="800px" style="display:table-style;">
+<td width="400px" align="left" style="display:cell-style;">
+
+- [X] Use of Unicode icons
+- [X] Expandable Table of Contents.
+- [X] Expandable Sub-Sections.
+
+</td>
+<td width="400px" align="left">
+
+- [X] Bug/Task Completed (100%)  
+- [ ] Bug/Task in progress (50%)  
+- [ ] Bug/Task requested  
+
+</td>
+</tr>
+</table>
+
+
 
 <!-- TABLE OF CONTENTS -->
 
