@@ -25,6 +25,7 @@
 <details><summary>📑 Table of Contents(click to expand)</summary><p>
 
 - [Introduction](#-introduction)
+- [Features](#-features)
 - [Installation](#-installation)
 - [Contribute](#-contribute)
 - [Team](#️-team)
