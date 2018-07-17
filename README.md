@@ -117,15 +117,15 @@ F**ck the, table no work with pages
 ## 🏭 Installation
 
 - ### Requirements
-  - Some host who uses Markdown spec (Like Github)
-  - A Text editor
+Some host who uses Markdown spec (Like Github)
+A Text editor
 
 <!-- USERGUIDE -->
 
 - ### User Guide
-  1. Download this file
-  2. Edit as you want
-  3. Place it on the host folder of your choice.
+1 Download this file
+2 Edit as you want
+3 Place it on the host folder of your choice.
 
 <!-- CONTRIBUTE -->
 
