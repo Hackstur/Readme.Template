@@ -270,7 +270,7 @@ I would love to have a great list of features and make one section for it, but i
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
 
-Please, have a look at the [Contributor Covenant](contributor covenant).
+Please, have a look at the [Contributor Covenant][contributor covenant].
 
 <!-- TEAM -->
 ## 🏀 Team
@@ -280,8 +280,9 @@ By moment, only me.
 ## 🎓 License  
 <sub> © 2018 Hacksturcon </sub>  
 
-This project is released under the terms of the [MIT](license file) license.
+This project is released under the terms of the [MIT][license file] license.
 
 <!------------ RELATIVE LINKS ----------->
-[license file]: LICENSE
-[contributor convenant]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm
+
+[license file]: LICENSE  
+[contributor covenant]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm  
