@@ -18,7 +18,7 @@
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
 
-<img align="right" float="left" src="http://via.placeholder.com/400x100?text=d.^_^.b+(Place+here+you+image)"/>
+<img align="right" float="left" src="http://via.placeholder.com/400x400?text=d.^_^.b"/>
 
 <!-- TABLE OF CONTENTS -->
 
