@@ -166,7 +166,7 @@ or <http://www.example.com>
 and sometimes example.com 
 (but not on Github, for example).
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 ```  
