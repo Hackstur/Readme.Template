@@ -15,7 +15,7 @@
 ## 💬 Introduction  
 
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
-<sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
+<sup>You can use or share this document as you want, under [MIT](LICENSE) license. </sup><br/>
 
 
 <img align="right" float="left" src="http://via.placeholder.com/400x200?text=d.^_^.b"/>
@@ -270,7 +270,7 @@ I would love to have a great list of features and make one section for it, but i
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
 
-Please, have a look at the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+Please, have a look at the [Contributor Covenant](COVENANT).
 
 <!-- TEAM -->
 ## 🏀 Team
@@ -282,7 +282,6 @@ By moment, only me.
 
 This project is released under the terms of the [MIT](LICENSE) license.
 
-
-
-<!-- RELATIVE LINKS -->
+<!------------ RELATIVE LINKS ----------->
 [LICENSE]:LICENSE
+[COVENANT]:https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm
