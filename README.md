@@ -283,5 +283,5 @@ By moment, only me.
 This project is released under the terms of the [MIT](LICENSE) license.
 
 <!------------ RELATIVE LINKS ----------->
-[LICENSE]:LICENSE
-[COVENANT]:https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm
+[LICENSE]: LICENSE
+[COVENANT]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm
