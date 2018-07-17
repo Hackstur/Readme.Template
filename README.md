@@ -271,23 +271,23 @@ F**ck the, table no work with pages
 ## 🏭 Installation
 
 * ### Requirements  
-1. Some host who uses Markdown spec (Like Github)  
-2. A Text editor  
+  1. Some host who uses Markdown spec (Like Github)  
+  1. A Text editor  
 
 <!-- USERGUIDE -->
 
 * ### User Guide  
-1. Download this file  
-2. Edit as you want  
-3. Place it on the host folder of your choice.  
+  1. Download this file  
+  1. Edit as you want  
+  1. Place it on the host folder of your choice.  
 
 <!-- CONTRIBUTE -->
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
 * ### Bug/Feature Request  
-  If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)  
-  We attach the [Conductual code](#link)
+   If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)  
+   We attach the [Conductual code](#link)  
 
 <!-- TEAM -->
 ## 🏀 Team
@@ -297,4 +297,4 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 ## 🎓 License  
 <sub> © 2018 Hacksturcon </sub>  
 
- - This project is under [MIT](#MIT) License.
+This project is under [MIT](#MIT) License.
