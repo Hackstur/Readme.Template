@@ -250,8 +250,6 @@ I would love to have a great list of features and make one section for it, but i
 - [X] TOC Resume (Handly created)
 - [X] Icons with Unicode (For github pages)
 
-F**ck the, table no work with pages
-
 </td>
 <td width="400px" align="left" style="display:cell-style;float:left;">
 
@@ -270,16 +268,16 @@ F**ck the, table no work with pages
 
 ## 🏭 Installation
 
-* ### Requirements  
-  1. Some host who uses Markdown spec (Like Github)  
-  1. A Text editor  
+#### Requirements  
+1. Some host who uses Markdown spec (Like Github)  
+1. A Text editor  
 
 <!-- USERGUIDE -->
 
-* ### User Guide  
-  1. Download this file  
-  1. Edit as you want  
-  1. Place it on the host folder of your choice.  
+#### User Guide  
+1. Download this file  
+1. Edit as you want  
+1. Place it on the host folder of your choice.  
 
 <!-- CONTRIBUTE -->
 
