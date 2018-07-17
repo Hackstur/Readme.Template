@@ -274,7 +274,7 @@ Please, have a look at the [Contributor Covenant][contributor covenant].
 
 <!-- TEAM -->
 ## 🏀 Team
-By moment, only me.
+Me, and my pet... d｡ಠ_ಠ｡b
 
 <!-- LICENSE -->
 ## 🎓 License  
