@@ -288,7 +288,7 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 
 <!-- TEAM -->
 ## 🏀 Team
-* By moment, only me.
+By moment, only me.
 
 <!-- LICENSE -->
 ## 🎓 License  
