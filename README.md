@@ -285,9 +285,6 @@ F**ck the, table no work with pages
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
-* ### Bug/Feature Request  
-   If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)  
-   We attach the [Conductual code](#link)  
 
 <!-- TEAM -->
 ## 🏀 Team
