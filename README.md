@@ -280,4 +280,9 @@ By moment, only me.
 ## 🎓 License  
 <sub> © 2018 Hacksturcon </sub>  
 
-This project is released under the terms of the [MIT](#MIT) license.
+This project is released under the terms of the [MIT](LICENSE) license.
+
+
+
+<!-- RELATIVE LINKS -->
+[LICENSE]:LICENSE
