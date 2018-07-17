@@ -17,6 +17,28 @@
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
+<!-- TABLE OF CONTENTS -->
+
+<details><summary>📑 Table of Contents(click to expand)</summary><p>
+
+- [Introduction](#-introduction)
+  - [Features](#-features)
+  - [Table of Contents](#-table-of-contents)
+- [Installation](#-installation)
+  - [Requirements](#-requirements)
+  - [User Guide](#-user-guide)
+- [Contribute](#-contribute)
+  - [Bug/Feature Request](#-bug/feature-request)
+  - [Code of Conduct](#code-of-conduct)
+- [Team](#️-team)
+- [License](#-license)
+---
+
+</p></details><br/>
+
+<!-- END TABLE OF CONTENTS -->
+
+
 <p align="center">
 <img src="http://via.placeholder.com/900x100?text=d.^_^.b+(Place+here+you+image)"/>
 </p>
@@ -241,27 +263,6 @@ F**ck the, table no work with pages
 </td>
 </tr>
 </table>
-
-<!-- TABLE OF CONTENTS -->
-
-<details><summary>📑 Table of Contents(click to expand)</summary><p>
-
-- [Introduction](#-introduction)
-  - [Features](#-features)
-  - [Table of Contents](#-table-of-contents)
-- [Installation](#-installation)
-  - [Requirements](#-requirements)
-  - [User Guide](#-user-guide)
-- [Contribute](#-contribute)
-  - [Bug/Feature Request](#-bug/feature-request)
-  - [Code of Conduct](#code-of-conduct)
-- [Team](#️-team)
-- [License](#-license)
----
-
-</p></details>
-
-<!-- END TABLE OF CONTENTS -->
 
 ---
 
