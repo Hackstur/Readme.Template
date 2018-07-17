@@ -18,7 +18,7 @@
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
 
-<img align="right" border="5" float="left" src="http://via.placeholder.com/400x200?text=d.^_^.b"/>
+<img align="right" float="left" src="http://via.placeholder.com/400x200?text=d.^_^.b"/>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -280,4 +280,4 @@ By moment, only me.
 ## 🎓 License  
 <sub> © 2018 Hacksturcon </sub>  
 
-This project is licensed under the terms of the [MIT](#MIT) license.
+This project is released under the terms of the [MIT](#MIT) license.
