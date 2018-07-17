@@ -35,7 +35,7 @@
 
 <!-- END TABLE OF CONTENTS -->
 
-> If you want to **improve** this project, please, **read** the [`Contributors section`](#contribute).
+> If you want to **improve** this project, please, **read** the [`Contributors section`](#-contribute).
 
 
 <!------------------- EXPANDABLE TIPS SECTION ---------------------------->
