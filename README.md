@@ -121,28 +121,29 @@ F**ck the, table no work with pages
 <!-- USERGUIDE -->
 
 - ### 👷 User Guide
-  - Download this file
-  - Edit as you want
-  - Place it on the host folder you choise.
+  1. Download this file
+  2. Edit as you want
+  3. Place it on the host folder of your choice.
 
 <!-- CONTRIBUTE -->
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
   - ### 🐛 Bug/Feature Request
+    - If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)
+    
   - ### 😇 Code of Conduct
+    - We attach the [Conductual code](#link)
 
 <!-- TEAM -->
 ## 🏀 Team
-
 * By moment, only me.
 
 <!-- LICENSE -->
-
 ## 🎓 License  
- - This project is under [MIT](#MIT) License.
+<sub> © 2018 Hacksturcon </sub>  
 
-<sub> © 2018 Hacksturcon </sub>
+ - This project is under [MIT](#MIT) License.
 
 ```Shell
 This software are distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND' license.
