@@ -22,14 +22,8 @@
 <details><summary>📑 Table of Contents(click to expand)</summary><p>
 
 - [Introduction](#-introduction)
-  - [Features](#-features)
-  - [Table of Contents](#-table-of-contents)
 - [Installation](#-installation)
-  - [Requirements](#-requirements)
-  - [User Guide](#-user-guide)
 - [Contribute](#-contribute)
-  - [Bug/Feature Request](#-bug/feature-request)
-  - [Code of Conduct](#code-of-conduct)
 - [Team](#️-team)
 - [License](#-license)
 ---
@@ -267,17 +261,13 @@ I would love to have a great list of features and make one section for it, but i
 <!-- INSTALLATION  SECTION -->
 
 ## 🏭 Installation
+1. Download this file  
+1. Edit as you want  
+1. Place it on the host folder of your choice.  
 
 #### Requirements  
 1. Some host who uses Markdown spec (Like Github)  
 1. A Text editor  
-
-<!-- USERGUIDE -->
-
-#### User Guide  
-1. Download this file  
-1. Edit as you want  
-1. Place it on the host folder of your choice.  
 
 <!-- CONTRIBUTE -->
 
