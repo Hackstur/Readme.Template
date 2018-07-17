@@ -35,7 +35,7 @@
 
 <!-- END TABLE OF CONTENTS -->
 
-> If you want to **improve** this project, please, **read** the [`Contributors section`](#contributors).
+> If you want to **improve** this project, please, **read** the [`Contributors section`](#contribute).
 
 
 <!------------------- EXPANDABLE TIPS SECTION ---------------------------->
@@ -262,8 +262,8 @@ I would love to have a great list of features and make one section for it, but i
 1. Place it on the host folder of your choice.  
 
 #### Requirements  
-1. Some host who uses Markdown spec (Like Github)  
-1. A Text editor  
+* Some host who uses Markdown spec (Like Github)  
+* A Text editor  
 
 <!-- CONTRIBUTE -->
 
