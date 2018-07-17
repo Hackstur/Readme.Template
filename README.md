@@ -44,6 +44,99 @@ Little cookbook.
 <details> <summary> Some useful Snippets (click to expand)</summary>
 <p>
 
+<details> <summary> Basic Markdown (click to expand)</summary>
+<p>
+
+<table>
+<tr>
+<td>
+
+**HEADERS**  
+``` 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+``` 
+
+</td>
+<td>
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+</td>
+</tr>
+<tr>
+<td>
+ 
+**EMPHASIS**  
+``` 
+italics, with *asterisks* or _underscores_
+bold, with **asterisks** or __underscores__
+Combined with **asterisks and _underscores_**
+Strikethrough uses two tildes. ~~Scratch this.~~
+```  
+
+</td>
+<td>
+
+italics, with *asterisks* or _underscores_
+bold, with **asterisks** or __underscores__
+Combined with **asterisks and _underscores_**
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+</td>
+</tr>
+<tr>
+<td>
+ 
+**LIST**  
+``` 
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+⋅⋅⋅a line break without a paragraph use two trailing spaces.⋅⋅
+⋅⋅⋅trailing spaces are not required.
+```  
+
+</td>
+<td>
+ 
+**LIST**  
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+⋅⋅⋅a line break without a paragraph use two trailing spaces.⋅⋅
+⋅⋅⋅trailing spaces are not required.
+
+</td>
+</tr>
+</table>
+
+---
+
+</p></details>
+
+
 
 ---
 
@@ -116,26 +209,24 @@ F**ck the, table no work with pages
 
 ## 🏭 Installation
 
-- ### Requirements
-Some host who uses Markdown spec (Like Github)
-A Text editor
+* ### Requirements  
+1. Some host who uses Markdown spec (Like Github)  
+2. A Text editor  
 
 <!-- USERGUIDE -->
 
-- ### User Guide
-1 Download this file
-2 Edit as you want
-3 Place it on the host folder of your choice.
+* ### User Guide  
+1. Download this file  
+2. Edit as you want  
+3. Place it on the host folder of your choice.  
 
 <!-- CONTRIBUTE -->
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
-  - ### Bug/Feature Request
-    - If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)
-
-  - ### Code of Conduct
-    - We attach the [Conductual code](#link)
+* ### Bug/Feature Request  
+  If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)  
+  We attach the [Conductual code](#link)
 
 <!-- TEAM -->
 ## 🏀 Team
