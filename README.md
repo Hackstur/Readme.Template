@@ -257,7 +257,7 @@ I would love to have a great list of features and make one section for it, but i
 <!-- INSTALLATION  SECTION -->
 
 ## 🏭 Installation
-1. Download this file  
+1. Download/Fork/Copy/Get this file  
 1. Edit as you want  
 1. Place it on the host folder of your choice.  
 
