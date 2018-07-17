@@ -17,6 +17,9 @@
 **README.TEMPLATE** pretends to be my own template and cheatsheet for Readme.md files.  
 <sup>You can use or share this document as you want, under [MIT](#MIT) license. </sup><br/>
 
+
+<img align="right" float="left" src="http://via.placeholder.com/400x100?text=d.^_^.b+(Place+here+you+image)"/>
+
 <!-- TABLE OF CONTENTS -->
 
 <details><summary>📑 Table of Contents(click to expand)</summary><p>
@@ -31,8 +34,6 @@
 </p></details><br/>
 
 <!-- END TABLE OF CONTENTS -->
-
-<img align="right" float="left" src="http://via.placeholder.com/400x100?text=d.^_^.b+(Place+here+you+image)"/>
 
 > If you want to **improve** this project, please, **read** the [`Contributors section`](#contributors).
 
