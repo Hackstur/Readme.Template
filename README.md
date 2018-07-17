@@ -256,8 +256,6 @@ I would love to have a great list of features and make one section for it, but i
 </tr>
 </table>
 
----
-
 <!-- INSTALLATION  SECTION -->
 
 ## 🏭 Installation
