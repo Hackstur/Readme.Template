@@ -61,7 +61,7 @@ Little cookbook.
 <!------------------- END OF TIPS SECTION --------------------->
 <!--########## END OF README.TEMPLATE INTRODUCTION ##########-->
 
-- ### 🏅 Features
+## 🏅 Features
 
 <!-- FEATURES ACHIEVED -->
 I would love to have a great list of features and make one section for it, but it will not be like that. You'll be glad of the introduction ones.
@@ -110,17 +110,19 @@ F**ck the, table no work with pages
 
 <!-- END TABLE OF CONTENTS -->
 
+---
+
 <!-- INSTALLATION  SECTION -->
 
 ## 🏭 Installation
 
-- ### 🛒 Requirements
+- ### Requirements
   - Some host who uses Markdown spec (Like Github)
   - A Text editor
 
 <!-- USERGUIDE -->
 
-- ### 👷 User Guide
+- ### User Guide
   1. Download this file
   2. Edit as you want
   3. Place it on the host folder of your choice.
@@ -129,10 +131,10 @@ F**ck the, table no work with pages
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
-  - ### 🐛 Bug/Feature Request
+  - ### Bug/Feature Request
     - If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)
 
-  - ### 😇 Code of Conduct
+  - ### Code of Conduct
     - We attach the [Conductual code](#link)
 
 <!-- TEAM -->
@@ -144,9 +146,3 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 <sub> © 2018 Hacksturcon </sub>  
 
  - This project is under [MIT](#MIT) License.
-
-```Shell
-This software are distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND' license.
-
-Read the License document to find futher information.
-```
