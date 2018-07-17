@@ -32,10 +32,7 @@
 
 <!-- END TABLE OF CONTENTS -->
 
-
-<p align="center">
-<img src="http://via.placeholder.com/900x100?text=d.^_^.b+(Place+here+you+image)"/>
-</p>
+<img align="right" float="left" src="http://via.placeholder.com/400x100?text=d.^_^.b+(Place+here+you+image)"/>
 
 > If you want to **improve** this project, please, **read** the [`Contributors section`](#contributors).
 
