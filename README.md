@@ -115,10 +115,15 @@ F**ck the, table no work with pages
 ## 🏭 Installation
 
 - ### 🛒 Requirements
+  - Some host who uses Markdown spec (Like Github)
+  - A Text editor
 
 <!-- USERGUIDE -->
 
 - ### 👷 User Guide
+  - Download this file
+  - Edit as you want
+  - Place it on the host folder you choise.
 
 <!-- CONTRIBUTE -->
 
@@ -135,18 +140,12 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 <!-- LICENSE -->
 
 ## 🎓 License  
-
-<sub>Copyright 2018 Hacksturcon</sub>  
  - This project is under [MIT](#MIT) License.
 
+<sub> © 2018 Hacksturcon </sub>
+
 ```Shell
-Unless required by applicable law or agreed to under the license, software distributed under the 'License'
-is distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND',
-either express or implied.
+This software are distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND' license.
 
 Read the License document to find futher information.
 ```
-
-<footer>
-<p> © 2018 Hacksturcon </p>
-</footer>
