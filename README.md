@@ -101,42 +101,102 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ``` 
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list. 
+  * Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
+  1. Ordered sub-list
 4. And another item.
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-⋅⋅⋅a line break without a paragraph use two trailing spaces.⋅⋅
-⋅⋅⋅trailing spaces are not required.
+   a line break
+   trailing spaces are not required.
 ```  
 
 </td>
 <td>
- 
-**LIST**  
+
 1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
+2. Another item  
+  * Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-⋅⋅⋅a line break without a paragraph use two trailing spaces.⋅⋅
-⋅⋅⋅trailing spaces are not required.
+  1. Ordered sub-list
+4. And another item. 
+* Unordered list can use asterisks  
+- Or minuses  
++ Or pluses  
+   a line break 
+   trailing spaces are not required.  
+
+</td>
+</tr>
+<tr>
+<td>
+ 
+**LINKS**  
+``` 
+[link](https://www.google.com)
+
+[with title](https://www.google.com "Google's Homepage")
+
+[reference][reference text]
+
+[relative](../blob/master/LICENSE)
+
+[numbers reference][1]
+
+Empty and use the [link text itself].
+
+URLs and URLs get turned into links. 
+http://www.example.com 
+or <http://www.example.com> 
+and sometimes example.com 
+(but not on Github, for example).
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+```  
+
+</td>
+<td>
+
+[link](https://www.google.com)
+
+[with title](https://www.google.com "Google's Homepage")
+
+[reference][reference text]
+
+[relative](../blob/master/LICENSE)
+
+[numbers reference][1]
+
+Empty and use the [link text itself].
+
+URLs and URLs get turned into links. 
+http://www.example.com 
+or <http://www.example.com> 
+and sometimes example.com 
+(but not on Github, for example).
+
+[reference text]: https://www.mozilla.org
+
+[1]: http://slashdot.org
+
+[link text itself]: http://www.reddit.com
+
+</td>
+</tr>
+<tr>
+<td>
+ 
 
 </td>
 </tr>
 </table>
 
----
+
 
 </p></details>
-
-
 
 ---
 
