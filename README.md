@@ -137,7 +137,8 @@ Feel free to send us a message of any issue or if you wan a pull request. We'd l
 ## 🎓 License  
 
 <sub>Copyright 2018 Hacksturcon</sub>  
- - This project is under [MIT](#MIT) License.
+
+This project is under [MIT](#MIT) License.
 
 ```Shell
 Unless required by applicable law or agreed to under the license, software distributed under the 'License'
