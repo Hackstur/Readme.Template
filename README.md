@@ -272,6 +272,8 @@ I would love to have a great list of features and make one section for it, but i
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
 
+Please, have a look at the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+
 <!-- TEAM -->
 ## 🏀 Team
 By moment, only me.
@@ -280,4 +282,4 @@ By moment, only me.
 ## 🎓 License  
 <sub> © 2018 Hacksturcon </sub>  
 
-This project is under [MIT](#MIT) License.
+This project is licensed under the terms of the [MIT](#MIT) license.
