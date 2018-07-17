@@ -115,39 +115,38 @@ F**ck the, table no work with pages
 ## 🏭 Installation
 
 - ### 🛒 Requirements
+  - Some host who uses Markdown spec (Like Github)
+  - A Text editor
 
 <!-- USERGUIDE -->
 
 - ### 👷 User Guide
+  1. Download this file
+  2. Edit as you want
+  3. Place it on the host folder of your choice.
 
 <!-- CONTRIBUTE -->
 
 ## 💎 Contribute
 Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
   - ### 🐛 Bug/Feature Request
+    - If you found some bug or issue, even if you want to ask us a request,  you can contact us [Here](#link)
+
   - ### 😇 Code of Conduct
+    - We attach the [Conductual code](#link)
 
 <!-- TEAM -->
 ## 🏀 Team
-
 * By moment, only me.
 
 <!-- LICENSE -->
-
 ## 🎓 License  
+<sub> © 2018 Hacksturcon </sub>  
 
-<sub>Copyright 2018 Hacksturcon</sub>  
-
-This project is under [MIT](#MIT) License.
+ - This project is under [MIT](#MIT) License.
 
 ```Shell
-Unless required by applicable law or agreed to under the license, software distributed under the 'License'
-is distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND',
-either express or implied.
+This software are distributed on an 'BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND' license.
 
 Read the License document to find futher information.
 ```
-
-<footer>
-<p> © 2018 Hacksturcon </p>
-</footer>
