@@ -268,13 +268,13 @@ I would love to have a great list of features and make one section for it, but i
 <!-- CONTRIBUTE -->
 
 ## 💎 Contribute
-Feel free to send us a message of any issue or if you wan a pull request. We'd love to ear about improve!.
+Feel free to send us a message or any bug <sup>🐛</sup> or if you wan a pull request. We'd love to ear about improve!.
 
 Please, have a look at the [Contributor Covenant][contributor covenant].
 
 <!-- TEAM -->
 ## 🏀 Team
-Me, and my pet... d｡ಠ_ಠ｡b
+Only me.
 
 <!-- LICENSE -->
 ## 🎓 License  
