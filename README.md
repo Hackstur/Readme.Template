@@ -274,6 +274,7 @@ Feel free to send us a message for anything. We'd love to ear about improve!.
 Please, have a look at the [Contributor Covenant][contributor covenant].
 
 <!-- TEAM -->
+
 ## 🏀 Team  
 Only me.
 
