@@ -28,7 +28,7 @@
 - [Features](#-features)
 - [Installation](#-installation)
 - [Contribute](#-contribute)
-- [Team](#️-team)
+- [Team](#-team)
 - [License](#-license)
 ---
 
