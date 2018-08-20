@@ -43,8 +43,6 @@
 <!-- Links -->
 <details> <summary> Some useful links (click to expand)</summary>
 <p>
-
-* [**Awesome Readme**](https://github.com/Hacksturcon/awesome-readme)  
 Compilation of well designed Markdown README documents and some articles of interest.  
 * [**Github Help Site**](https://help.github.com/categories/writing-on-github/)  
 You know, the official guide.  
@@ -280,7 +278,7 @@ Only me.
 
 <!-- LICENSE -->
 ## 🎓 License  
-<sub> © 2018 Hacksturcon </sub>  
+<sub> © 2018 Hackstur </sub>  
 
 This project is released under the terms of the [MIT][license file] license.
 
